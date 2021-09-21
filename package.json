@@ -1,0 +1,24 @@
+{
+  "name": "newpo",
+  "version": "1.0.0",
+  "description": "MIT course 1.125 Class 3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oukaire/newpo.git"
+  },
+  "keywords": [],
+  "author": "ukaire@mit.edu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oukaire/newpo/issues"
+  },
+  "homepage": "https://github.com/oukaire/newpo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
